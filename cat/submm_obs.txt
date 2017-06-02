@@ -14,6 +14,8 @@
 | char                      | char     | char                      | long   | char         | double    | double    | long      | char                  |
 |                           |          |                           |        |              |           |           |           |                       |
 | null                      | null     | null                      | null   | null         | null      | null      | null      | null                  |
+  HD 9672                     9672       49 Cet                      850      ALMA           17.0        3.0         null        2017ApJ...839...86H
+  HD 216956                   216956     Fomalhaut                   1300     ALMA           24.7        2.6         null        2017arXiv170505867M    
   HD 109085                   109085     null                        880      ALMA           10.1        0.4         null        2017MNRAS.465.2595M    
   HD 181327                   181327     HD 181327                   1300     ALMA           7.9         2.0         null        2016MNRAS.460.2933M    
   HD 377                      377        null                        9000     VLA            0.0         0.0044      null        2016ApJ...823...79M    
