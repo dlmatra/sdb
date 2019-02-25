@@ -14,6 +14,11 @@
 | char                      | char     | char                      | int    | char         | float     | char      | char      | char                  | char     |
 |                           |          |                           |        |              |           |           |           |                       |          |
 | null                      | null     | null                      | null   | null         | null      | null      | null      | null                  | null     |
+  HD 61005                    null       null                        1300      ALMA          6.4         0.9         null        2018ApJ...869...75M     null
+  HD 32297                    null       null                        1300      ALMA          3.7         0.5         null        2018ApJ...869...75M     null
+  HD 39060                    null       beta Pic                   1330      ALMA           20          2           null        2019arXiv190204081M     null
+  HD 131835                   null       null                        616      ALMA           17.9        2.1         null        2018arXiv181108439K     null
+  HD 92945                    null       null                        860      ALMA           9.6         1.0         null        2019MNRAS.484.1257M     null
   TWA 7                       null       TWA 7                       880      ALMA           2.1         0.4         null        arXiv:1806.09252v2      null
   HD 107146                   107146     null                        860      ALMA           34.4        3.5         null        arXiv:1805.01915        null      
   HD 107146                   107146     null                        1100     ALMA           16.1        1.6         null        arXiv:1805.01915        null      
